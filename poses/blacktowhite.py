@@ -38,3 +38,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+   # https://www.pyimagesearch.com/2014/04/07/building-pokedex-python-indexing-sprites-using-shape-descriptors-step-3-6/
+    #6/1/2020 retrieval date
