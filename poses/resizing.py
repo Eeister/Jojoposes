@@ -20,3 +20,5 @@ for names in entries:
     cv2.imshow("Resized image", img)
     cv2.waitKey(0)
     cv2.destroyAllWindows() 
+   #https://www.tutorialkart.com/opencv/python/opencv-python-resize-image/
+    # retrieval date 6/1/2020
