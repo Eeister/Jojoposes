@@ -12,3 +12,5 @@ https://mahotas.readthedocs.io/en/latest/
 
 
 Jojoposes is intended for academic purposes only
+
+Programming code cited in appropriate files
