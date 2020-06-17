@@ -9,3 +9,6 @@ https://docs.python.org/3/library/pickle.html
 https://pypi.org/project/imutils/
 https://numpy.org/
 https://mahotas.readthedocs.io/en/latest/
+
+
+Jojoposes is intended for academic purposes only
