@@ -14,3 +14,5 @@ https://mahotas.readthedocs.io/en/latest/
 Jojoposes is intended for academic purposes only
 
 Programming code cited in appropriate files
+
+images gathered from jojo bizarre adventure wiki.
