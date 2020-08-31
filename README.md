@@ -16,3 +16,7 @@ Jojoposes is intended for academic purposes only
 Programming code cited in appropriate files
 
 images gathered from jojo bizarre adventure wiki.
+
+actual files necessary are in jojo poses folder
+
+project abandoned for now as identifying poses via the shape of the person is not doable due to similar shapes possibly beating out the correct pose
